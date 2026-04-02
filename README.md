@@ -101,7 +101,7 @@ Mechanical Engineer, Sales, Operations Manager, Arts, Health and Fitness, Advoca
 
 ---
 
-## Notes for Internship Presentation
+## Notes for Project
 
 - The project uses a **single sklearn Pipeline** object (`TfidfVectorizer` → `LogisticRegression`) ensuring no data leakage between train/test.
 - All preprocessing is encapsulated in `src/preprocessor.py` making it reusable.
