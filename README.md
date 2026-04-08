@@ -27,6 +27,7 @@ resume_screener/
 ├── notebooks/
 │   └── eda.ipynb                # Exploratory Data Analysis
 ├── train.py                     # Run this to train & save the model
+├── test_resumes/                # Sample resumes for testing (PDF)
 ├── requirements.txt
 └── README.md
 ```
